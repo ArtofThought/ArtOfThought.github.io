@@ -1,0 +1,122 @@
+html {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+
+    background-color: black;
+}
+
+/***********************/
+/* CONTAINER           */
+/***********************/
+
+#container {
+    width: 700px;
+    margin: auto;
+    margin-top: 30px;
+
+    background-color: darkblue;
+}
+
+/***********************/
+/* HEADER              */
+/***********************/
+
+#header {
+    padding-top: 20px;
+}
+
+#header .title-container {
+    width: 90%;
+    margin: auto;
+
+    /*border-radius: 100px;*/
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+
+    background-color: darkgreen;
+    /*box-shadow: 0px 0px 10px 10px black;*/
+}
+
+#header .title {
+    font-size: 50px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+    color: white;
+}
+
+/***********************/
+/* CONTENT              */
+/***********************/
+
+#content {
+    /*height: 800px;*/
+}
+
+#episodes-container {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#episodes-container .episode {
+    /*box-shadow: 0px 0px 0px 2px black;*/
+    background-color: white;
+    color: black;
+
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+
+    border-bottom-left-radius: 70px;
+    border-top-right-radius: 70px;
+
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+#episodes-container .episode:hover {
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+#episodes-container .episode .name {
+    display: inline-block;
+    margin-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    font-size: 28px;
+    font-style: italic;
+}
+
+#episodes-container .episode .index {
+    float: right;
+    display: inline-block;
+    margin-right: 20px;
+    padding-top: 10px;
+
+    font-size: 28px;
+    text-align: right;
+}
+
+
+#episodes-container .episode .desc {
+    margin-left: 40px;
+    margin-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 16px;
+}
+
+/***********************/
+/* FOOTER              */
+/***********************/
+
+#footer {
+
+}

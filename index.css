@@ -7,7 +7,7 @@ body {
     margin: 0px;
     padding: 0px;
 
-    background-color: black;
+    background-color: white;
 }
 
 /***********************/
@@ -19,7 +19,7 @@ body {
     margin: auto;
     margin-top: 30px;
 
-    background-color: darkblue;
+    font-family: didot;
 }
 
 /***********************/
@@ -30,15 +30,24 @@ body {
     padding-top: 20px;
 }
 
+#header .logo-container {
+    width: 100%;
+    margin-top: -200px;
+}
+
+#header .logo {
+    margin: auto;
+    width: 80%;
+}
+
 #header .title-container {
     width: 90%;
     margin: auto;
 
     /*border-radius: 100px;*/
-    border-bottom-left-radius: 100px;
-    border-bottom-right-radius: 100px;
+    /*border-bottom-left-radius: 100px;*/
+    /*border-bottom-right-radius: 100px;*/
 
-    background-color: darkgreen;
     /*box-shadow: 0px 0px 10px 10px black;*/
 }
 
@@ -48,7 +57,7 @@ body {
     padding-top: 20px;
     padding-bottom: 20px;
 
-    color: white;
+    color: black;
 }
 
 /***********************/
@@ -65,24 +74,27 @@ body {
 }
 
 #episodes-container .episode {
-    /*box-shadow: 0px 0px 0px 2px black;*/
-    background-color: white;
-    color: black;
+    /*background-color: w;*/
+    /*color: white;*/
 
     margin-top: 20px;
     margin-bottom: 20px;
     padding: 10px;
 
-    border-bottom-left-radius: 70px;
-    border-top-right-radius: 70px;
+    border-bottom-left-radius: 0px;
+    border-top-right-radius: 0px;
 
-    transition: 0.5s;
+    box-shadow: 0px 0px 0px 4px black;
+
+    transition: 0.2s;
     cursor: pointer;
 }
 
 #episodes-container .episode:hover {
-    border-bottom-left-radius: 20px;
-    border-top-right-radius: 20px;
+    box-shadow: 0px 0px 0px 6px black;
+
+    /*border-bottom-left-radius: 70px;*/
+    /*border-top-right-radius: 70px;*/
 }
 
 #episodes-container .episode .name {

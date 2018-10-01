@@ -12,7 +12,7 @@ function make_episode(ep) {
 
     let index = document.createElement("div")
     index.classList.add("index")
-    index.innerText = "ep" + (episodes.length - i).toString()
+    index.innerText = "ep:" + (episodes.length - i).toString()
     episode.appendChild(index)
     
     let desc = document.createElement("div")

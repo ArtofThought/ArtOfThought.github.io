@@ -17,8 +17,21 @@ function make_episode(ep) {
     
     let desc = document.createElement("div")
     desc.classList.add("desc")
-    desc.innerText = ep["desc"]
+    desc.innerHTML = ep["desc"]
     episode.appendChild(desc)
+
+    let player = document.createElement("div")
+    player.classList.add("player")
+    episode.appendChild(player)
+
+    let player_btn = document.createElement("img")
+    player_btn.classList.add("btn")
+    player_btn.src = "assets/images/btn_play.png"
+    player.appendChild(player_btn)
+
+    let player_bar = document.createElement("div")
+    player_bar.classList.add("bar")
+    player.appendChild(player_bar)
 
     return episode
 }

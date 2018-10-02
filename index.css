@@ -80,18 +80,29 @@ body {
     margin-top: 20px;
     margin-bottom: 20px;
     padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
 
     border-bottom-left-radius: 0px;
     border-top-right-radius: 0px;
 
-    box-shadow: 0px 0px 0px 4px black;
+    box-shadow:
+        0px 0px 0px 4px black,
+        0px 0px 0px 4px black;
 
     transition: 0.2s;
     cursor: pointer;
 }
 
+:root {
+    --sepwidth: 5px;
+}
+
 #episodes-container .episode:hover {
-    box-shadow: 0px 0px 0px 6px black;
+    /*border-left: var(--sepwidth) solid black;*/
+    box-shadow:
+        5px 0px 0px 4px,
+        -5px 0px 0px 4px;
 
     /*border-bottom-left-radius: 70px;*/
     /*border-top-right-radius: 70px;*/
@@ -102,6 +113,7 @@ body {
     margin-left: 20px;
     padding-top: 10px;
     padding-bottom: 5px;
+    width: 80%;
     font-size: 28px;
     font-style: italic;
 }
@@ -123,6 +135,30 @@ body {
     padding-top: 10px;
     padding-bottom: 10px;
     font-size: 16px;
+}
+
+#episodes-container .player {
+    width: 100%;
+    margin-top: 20px;
+}
+
+#episodes-container .player .btn {
+    position: relative;
+    display: inline-block;
+    /*top: -15px;*/
+    width: 50px;
+    margin: 0px;
+    z-index: 1;
+}
+
+#episodes-container .player .bar {
+    position: relative;
+    display: inline-block;
+    left: 10px;
+    top: -13px;
+    height: 20px;
+    width: 600px;
+    background-color: black;
 }
 
 /***********************/

@@ -6,7 +6,7 @@ var episodes = [
    },
    {
       "name":"Physiology at Berkeley: A case study of the Undergraduate Medical Student",
-      "desc":"A conversation with Chris Huebner. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "desc":"A conversation with a student at the University of California, Berkeley. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "src":""
    },
    {

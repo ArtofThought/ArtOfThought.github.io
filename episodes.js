@@ -33,35 +33,35 @@ var episodes = [
    },
    {
       "name":"The Significance of Liberal Arts Education",
-      "desc":"We both go to a liberal arts school ourselves, but each one is unique. What is the fundamental, standard foundation for a libear arts education, and why do we consider it important? Before this episode, we listened to a discussion along similar lines held on the <i>Partially Examined Life</i> podcast.",
+      "desc":"We both attent a liberal arts school ourselves, but each one is unique. What is the fundamental, standard foundation for a libear arts education, and why do we consider it important? Before this episode, we listened to a discussion along similar lines held on the <i>Partially Examined Life</i> podcast.",
       "src":""
    },
-   {
+   { // TODO
       "name":"Ayn Rand, an Inspiration and less",
       "desc":"A conversation with Laura Swann. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "src":""
    },
-   {
+   { // TODO
       "name":"Libraries, brought to you by Amazon",
       "desc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "src":""
    },
-   {
+   { // TODO
       "name":"News, Comedy, and Everything Between",
       "desc":"A conversation with Aditya Hariharan. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "src":""
    },
-   {
+   { // TODO
       "name":"On Cults and Canadian Politics",
       "desc":"A conversation with Gabe Dalpiaz. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "src":""
    },
-   {
+   { // TODO
       "name":"Appealing to the Public",
       "desc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "src":"episodes/09-01-18_Mental-Illness.mp3"
    },
-   {
+   { // TODO
       "name":"Jordan Peterson",
       "desc":"Jordan Peterson has exploded in popularity as a public intellectual in the last year. He is a professor of Psychology at the University of Toronto, but is also intensely interested in the topics of religion and politics. We attended one of Peterson's lectures (venue in Portland), and here we discuss our impressions of the lecture and Jordan Peterson in general",
       "src":""

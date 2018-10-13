@@ -149,12 +149,14 @@ body {
 #episodes-container .episode .link {
     display: block;
     margin-right: 60px;
+    margin-left: 40px;
     padding-top: 0px;
     padding-bottom: 10px;
     font-size: 16px;
-    text-align: center;
+    text-align: left;
     text-decoration: none;
     font-style: italic;
+    color: black;
 }
 #episodes-container .episode .link:hover {
     font-style: normal;

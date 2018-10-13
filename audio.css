@@ -63,7 +63,7 @@
     appearance: none;
 
     height: calc(var(--audio-font-size) + 3px);
-    width: 320px;
+    width: 290px;
 }
 
 .audio-player .audio-progress::-webkit-progress-bar {
@@ -72,5 +72,23 @@
 }
 
 .audio-player .audio-progress::-webkit-progress-value {
+    background-color: black;
+}
+
+.audio-player .audio-speed {
+    width: 50px;
+}
+
+.audio-player .audio-speed:hover {
+    color: white;
+    background-color: black;
+}
+
+.audio-player .audio-rewind {
+    margin-left: 20px;
+}
+
+.audio-player .audio-rewind:hover {
+    color: white;
     background-color: black;
 }

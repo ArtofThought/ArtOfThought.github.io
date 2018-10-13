@@ -32,7 +32,7 @@ function make_episode(ep) {
         let link = document.createElement("a")
         episode.appendChild(link)
         link.classList.add("link")
-        link.innerText = "Read More"
+        link.innerText = "- Read More -"
         link.href = ep["link"]
     }
 

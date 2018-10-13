@@ -1,0 +1,76 @@
+:root {
+    --audio-font-size: 14pt;
+}
+
+.audio-player {
+    background-color: white;
+    box-shadow: 0px -1px 0px 0px black;
+
+    margin: auto;
+    margin-top: 10px;
+
+    padding: 10px;
+    padding-top: 20px;
+
+    /*width: 700px;*/
+
+    color: black;
+    font-size: var(--audio-font-size);
+    font-family: didot;
+}
+
+.audio-player button {
+    border: none;
+    outline: none;
+    background-color: white;
+    padding-left:   10px;
+    padding-right:  10px;
+    padding-top:    5px;
+    padding-bottom: 5px;
+
+    color: black;
+    box-shadow: 0px 0px 0px 2px black;
+    font-size: var(--audio-font-size);
+    font-family: didot;
+    cursor: pointer;
+}
+
+.audio-player .audio-play {
+    width: 80px;
+    cursor: pointer;
+}
+
+.audio-player .audio-play:hover {
+    width: 80px;
+    color: white;
+    background-color: black;
+}
+
+.audio-player .audio-pause {
+    width: 80px;
+    color: white;
+    background-color: black;
+}
+
+.audio-player .audio-progress-container {
+    display: inline-block;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.audio-player .audio-progress {
+    -webkit-appearance: none;
+    appearance: none;
+
+    height: calc(var(--audio-font-size) + 3px);
+    width: 320px;
+}
+
+.audio-player .audio-progress::-webkit-progress-bar {
+    background-color: white;
+    box-shadow: 0px 0px 0px 2px black;
+}
+
+.audio-player .audio-progress::-webkit-progress-value {
+    background-color: black;
+}

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<div class="audio-player">
+    <div class="audio-player-controls">
+        <button class="audio-play"><i class="fa fa-play"></i><span>Play</span></button>
+        
+        <button class="audio-pause"><i class="fa fa-pause"></i><span>Pause</span></button>
+        
+        <div class="audio-progress-container">
+            <span class="audio-currenttime audio-time">00:00</span>
+            <progress class="audio-progress" value="0"></progress>
+            <span class="audio-duration audio-time">00:00</span>
+        </div>
+
+        <button class="audio-speed">1x</button>
+
+        <button class="audio-rewind"><i class="fa fa-fast-backward"></i><span>Rewind</span></button>
+        <!-- <button class="audio-mute"><i class="fa fa-volume-up"></i><span>Mute/Unmute</span></button> -->
+    </div>
+    <audio src="https://s3.amazonaws.com/ShopTalk/080_rapidfire_19.mp3"></audio>
+</div>
+
+<p>Sample functionality I'd like from an HTML5 podcast player. Icons from <a href="https://fortawesome.github.io/Font-Awesome/icons/">Font Awesome</a>. Audio from <a href="http://shoptalkshow.com">shoptalkshow.com</a></p>
+
+<p>From <a href="https://codepen.io/davatron5000/pen/uqktG">this codepen example</a>.</p>
+
+</body>
+<head>
+    <title>Podcast Player Test</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script type="text/javascript" src="script.js"></script>
+</head>
+</html>

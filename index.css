@@ -15,7 +15,7 @@ body {
 /***********************/
 
 #container {
-    width: 700px;
+    width: 800px;
     margin: auto;
     margin-top: 30px;
 
@@ -60,6 +60,14 @@ body {
     color: black;
 }
 
+#header .subtitle {
+    padding-top: 20px;
+    font-size: 20px;
+    text-align: justify;
+    margin: auto;
+    width: 500px;
+}
+
 /***********************/
 /* CONTENT              */
 /***********************/
@@ -77,8 +85,8 @@ body {
     /*background-color: w;*/
     /*color: white;*/
 
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 80px;
+    margin-bottom: 80px;
     padding: 10px;
     padding-left: 20px;
     padding-right: 20px;
@@ -91,7 +99,7 @@ body {
         0px 0px 0px 4px black;
 
     transition: 0.2s;
-    cursor: pointer;
+    /*cursor: pointer;*/
 }
 
 :root {
@@ -135,6 +143,21 @@ body {
     padding-top: 10px;
     padding-bottom: 10px;
     font-size: 16px;
+    text-align: justify;
+}
+
+#episodes-container .episode .link {
+    display: block;
+    margin-right: 60px;
+    padding-top: 0px;
+    padding-bottom: 10px;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    font-style: italic;
+}
+#episodes-container .episode .link:hover {
+    font-style: normal;
 }
 
 #episodes-container .player {

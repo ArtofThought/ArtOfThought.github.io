@@ -1,14 +1,19 @@
 var episodes = [
    {
+      "name":"Self Deception",
+      "desc":"Taking a look around, it is easy to see examples of self deception practiced by others. Unconciously, of course. But if it truly is so common, each of us must have our faults with it as well? But how can we know, how can we find out? Yuta and Henry work at a definition of self-deception and explore its epistemic ramifications.",
+      "link":"http://cast.rocks/hosting/14881/Self-Deception.mp3"
+   },
+   {
       "name":"What is Religion?",
       "desc":"A dive into seemingly straightforward question with a religious studies major at Reed College. The conversation starts off by considering the percieved differences between religions in Europe and religions in eastern Asia. However though trying to refine this question, we develop a much larger perspective about religions in general, and also how such a simplistic comparison doesn't yield what truly makes religions interesting.",
       "link":"https://medium.com/@henry_4862/religion-the-eurasian-east-and-west-d49b35db0c34",
-      "src":""
+      "src":"episodes/10-06-18_Religion.mp3"
    },
    {
       "name":"Physiology at Berkeley: A case study of the Undergraduate Medical Student",
       "desc":"A conversation with a student at the University of California, Berkeley. First, we talk about the pre-med pathway through undergraduate education, complete with all of its intensities. Then we explore the differences in college life between the large public University of California Berkeley and a small private Reed College.",
-      "src":""
+      "src":"http://cast.rocks/hosting/14881/AoT---Medical-School.mp3"
    },
    {
       "name":"Immigration Policy for the United States",
@@ -38,28 +43,28 @@ var episodes = [
    },
    { // TODO
       "name":"Ayn Rand, an Inspiration and less",
-      "desc":"A conversation with Laura Swann. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "desc":"Ayn Rand, to some an inspiration and to some an example to avoid. We have an undergraduate political science major (with extensive Objectivist experience) join us in our reflection on Rand's ideas and impacts.",
       "src":""
    },
    { // TODO
       "name":"Libraries, brought to you by Amazon",
-      "desc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "desc":"To do.",
       "src":""
    },
    { // TODO
       "name":"News, Comedy, and Everything Between",
-      "desc":"A conversation with Aditya Hariharan. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "desc":"To do.",
       "src":""
    },
    { // TODO
       "name":"On Cults and Canadian Politics",
-      "desc":"A conversation with Gabe Dalpiaz. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "desc":"To do.",
       "src":""
    },
    { // TODO
       "name":"Appealing to the Public",
-      "desc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "src":"episodes/09-01-18_Mental-Illness.mp3"
+      "desc":"To do.",
+      "src":""
    },
    { // TODO
       "name":"Jordan Peterson",

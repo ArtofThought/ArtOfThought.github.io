@@ -6,7 +6,7 @@ var episodes = [
       "link":"https://medium.com/@henry_4862/communism-915ca907e684"
    },
    {
-      "name":"Self Deception",
+      "name":"Self-Deception",
       "desc":"Taking a look around, it is easy to see examples of self deception practiced by others. Unconciously, of course. But if it truly is so common, each of us must have our faults with it as well? But how can we know, how can we find out? Yuta and Henry work at a definition of self-deception and explore its epistemic ramifications.",
       "src":"http://cast.rocks/hosting/14881/Self-Deception.mp3"
    },

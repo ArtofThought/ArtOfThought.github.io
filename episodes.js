@@ -1,8 +1,14 @@
 var episodes = [
    {
+      "name":"Foundations of Communism",
+      "desc":"Communism's appeal has an infamous around the world during the last century, but what are its ideas really all about? We have on a guest that is deeply involved in communist activist to talk about how and why Communism is appealing. What are its central values and how do they contrast to our modern, capitalist society? This conversation is not a debate about how evidence has provided support or unsupport for implementing Communism in a given setting. Instead, this episode is a dive into the core of what makes the communist idealogy unique. Please do consider your own criticisms as well, of course."
+      "src":"http://cast.rocks/hosting/14881/AoT--Communism.mp3",
+      "link":"https://medium.com/@henry_4862/communism-915ca907e684"
+   },
+   {
       "name":"Self Deception",
       "desc":"Taking a look around, it is easy to see examples of self deception practiced by others. Unconciously, of course. But if it truly is so common, each of us must have our faults with it as well? But how can we know, how can we find out? Yuta and Henry work at a definition of self-deception and explore its epistemic ramifications.",
-      "link":"http://cast.rocks/hosting/14881/Self-Deception.mp3"
+      "src":"http://cast.rocks/hosting/14881/Self-Deception.mp3"
    },
    {
       "name":"What is Religion?",

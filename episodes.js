@@ -22,7 +22,7 @@ var episodes = [
    },
    {
       "name":"Social Media - the Good, the Bad, and Twitter",
-      "desc":"Social Media in many forms has come to dominate human-to-human interactions. In a prompt, Henry divides the phenomenon into two categories: Direct and Indirect. We have on a guest to help us point out the flaws in social media, our personal gribes with it, but also its innovative features.",
+      "desc":"Social Media in many forms has come to dominate human-to-human interactions. In a prompt, Henry divides the phenomenon into two categories: Direct and Indirect. We have on a guest to help us point out the flaws in social media, our personal gripes with it, but also its innovative features.",
       "link":"https://medium.com/@henry_4862/the-role-of-social-media-43510585c6cc",
       "src":""
    },
@@ -38,12 +38,12 @@ var episodes = [
    },
    {
       "name":"The Significance of Liberal Arts Education",
-      "desc":"We both attent a liberal arts school ourselves, but each one is unique. What is the fundamental, standard foundation for a libear arts education, and why do we consider it important? Before this episode, we listened to a discussion along similar lines held on the <i>Partially Examined Life</i> podcast.",
+      "desc":"We both attent a liberal arts school ourselves, but each one is unique. What is the fundamental, standard foundation for a liberal arts education, and why do we consider it important? Before this episode, we listened to a discussion along similar lines held on the <i>Partially Examined Life</i> podcast.",
       "src":""
    },
    { // TODO
       "name":"Ayn Rand, an Inspiration and less",
-      "desc":"Ayn Rand, to some an inspiration and to some an example to avoid. We have an undergraduate political science major (with extensive Objectivist experience) join us in our reflection on Rand's ideas and impacts.",
+      "desc":"Ayn Rand, to some an inspiration and to some an example to avoid. We have an undergraduate political science major (with extensive Objectivist experience) join us in our reflection on Rand's ideas and influences.",
       "src":""
    },
    { // TODO

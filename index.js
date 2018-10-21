@@ -32,6 +32,7 @@ function make_episode(ep) {
         let link = document.createElement("a")
         episode.appendChild(link)
         link.classList.add("link")
+        link.target = "_blank"
         link.innerText = "- Read More -"
         link.href = ep["link"]
     }

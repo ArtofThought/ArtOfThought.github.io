@@ -24,13 +24,13 @@ var episodes = [
    {
       "name":"Immigration Policy for the United States",
       "desc":"Yuta and Henry duel it out over immigration policy for the US. On one side is the disconcerted nationalist, supporting larger restrictions on immigration and priority for the recognized citizens of a country when push comes to shove. This side also considers the culture of one's country inherently valuable and worth protecting politically. On the other side is the more economically-focussed perspective that sees the overwhelming academic consensus that freer markets and freer immigration leads to a better quality of life for everyone involved, in the long term.",
-      "src":""
+      "src":"http://cast.rocks/hosting/14354/Immigration.mp3"
    },
    {
       "name":"Social Media - the Good, the Bad, and Twitter",
       "desc":"Social Media in many forms has come to dominate human-to-human interactions. In a prompt, Henry divides the phenomenon into two categories: Direct and Indirect. We have on a guest to help us point out the flaws in social media, our personal gripes with it, but also its innovative features.",
-      "link":"https://medium.com/@henry_4862/the-role-of-social-media-43510585c6cc",
-      "src":""
+      "src":"http://cast.rocks/hosting/14354/social-media--the-good-the-bad-and-twitter--we-live-in-a-society.mp3",
+      "link":"https://medium.com/@henry_4862/the-role-of-social-media-43510585c6cc"
    },
    {
       "name":"The Art of Video Games",
@@ -40,7 +40,7 @@ var episodes = [
    {
       "name":"Mental Illness in the United States",
       "desc":"A discussion about recent history and current developments in the mental health scene, with two guest undergraduate psychology majors. Why and how are the suicide rates increasing? How effective are psychoactive medications and what do we know about them? How do we view mental health and its treatment in our society?",
-      "src":"episodes/09-01-18_Mental-Illness.mp3"
+      "src":"http://cast.rocks/hosting/14354/Podcast-on-Mental-Illness.mp3"
    },
    {
       "name":"The Significance of Liberal Arts Education",

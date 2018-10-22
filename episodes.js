@@ -14,7 +14,7 @@ var episodes = [
       "name":"What is Religion?",
       "desc":"A dive into seemingly straightforward question with a religious studies major at Reed College. The conversation starts off by considering the percieved differences between religions in Europe and religions in eastern Asia. However though trying to refine this question, we develop a much larger perspective about religions in general, and also how such a simplistic comparison doesn't yield what truly makes religions interesting.",
       "link":"https://medium.com/@henry_4862/religion-the-eurasian-east-and-west-d49b35db0c34",
-      "src":"episodes/10-06-18_Religion.mp3"
+      "src":"http://cast.rocks/hosting/14881/AoT---Religion--2-.mp3"
    },
    {
       "name":"Physiology at Berkeley: A case study of the Undergraduate Medical Student",

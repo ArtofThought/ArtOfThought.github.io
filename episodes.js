@@ -35,7 +35,8 @@ var episodes = [
    {
       "name":"The Art of Video Games",
       "desc":"Yuta and Henry duel it out over what types of video games are truly <i>art</i>. Perhaps the aspects of video games that resemble more-entrenched forms of art like novels, movies, and the visual arts make the new medium worthy of <i>art</i>, but it brings nothing fundamentally new to the table. Or perhaps the interaction and game-mechanical aspects of video games are actually a new dimension to artistic expression not derivative of the more-entrenched art forms.",
-      "src":""
+      "src":"",
+      "link":"https://medium.com/@ykato/can-video-games-be-art-d94c52a5ee33"
    },
    {
       "name":"Mental Illness in the United States",

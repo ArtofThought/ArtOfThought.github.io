@@ -12,7 +12,7 @@ var episodes = [
    },
    {
       "name":"What is Religion?",
-      "desc":"A dive into seemingly straightforward question with a religious studies major at Reed College. The conversation starts off by considering the percieved differences between religions in Europe and religions in eastern Asia. However though trying to refine this question, we develop a much larger perspective about religions in general, and also how such a simplistic comparison doesn't yield what truly makes religions interesting.",
+      "desc":"A dive into seemingly straightforward question with Naomi, a religious studies major. The conversation starts off by considering the percieved differences between religions in Europe and religions in eastern Asia. However though trying to refine this question, we develop a much larger perspective about religions in general, and also how such a simplistic comparison doesn't yield what truly makes religions interesting.",
       "link":"https://medium.com/@henry_4862/religion-the-eurasian-east-and-west-d49b35db0c34",
       "src":"http://cast.rocks/hosting/14881/AoT---Religion--2-.mp3"
    },
@@ -28,7 +28,7 @@ var episodes = [
    },
    {
       "name":"Social Media - the Good, the Bad, and Twitter",
-      "desc":"Social Media in many forms has come to dominate human-to-human interactions. In a prompt, Henry divides the phenomenon into two categories: Direct and Indirect. We have on a guest to help us point out the flaws in social media, our personal gripes with it, but also its innovative features.",
+      "desc":"Social Media in many forms has come to dominate human-to-human interactions. In a prompt, Henry divides the phenomenon into two categories: Direct and Indirect. We have on a guest to help us point out the flaws in social media, our personal gripes with it, but also its innovative features. We have on Kayleigh, a mathematics and philosophy major, to join our analysis.",
       "src":"http://cast.rocks/hosting/14354/social-media--the-good-the-bad-and-twitter--we-live-in-a-society.mp3",
       "link":"https://medium.com/@henry_4862/the-role-of-social-media-43510585c6cc"
    },
@@ -40,7 +40,7 @@ var episodes = [
    },
    {
       "name":"Mental Illness in the United States",
-      "desc":"A discussion about recent history and current developments in the mental health scene, with two guest undergraduate psychology majors. Why and how are the suicide rates increasing? How effective are psychoactive medications and what do we know about them? How do we view mental health and its treatment in our society?",
+      "desc":"A discussion about recent history and current developments in the mental health scene, with two guest psychology majors, Caroline and John. Why and how are the suicide rates increasing? How effective are psychoactive medications and what do we know about them? How do we view mental health and its treatment in our society?",
       "src":"http://cast.rocks/hosting/14354/Podcast-on-Mental-Illness.mp3"
    },
    {
@@ -50,7 +50,7 @@ var episodes = [
    },
    { // TODO
       "name":"Ayn Rand, an Inspiration and less",
-      "desc":"Ayn Rand, to some an inspiration and to some an example to avoid. We have an undergraduate political science major (with extensive Objectivist experience) join us in our reflection on Rand's ideas and influences.",
+      "desc":"Ayn Rand, to some an inspiration and to some an example to avoid. We have a Laura, a political science major (with extensive Objectivist experience), join us in our reflection on Rand's ideas and influences. Additionally, we talk about our differing impressions on Jordan Peterson.",
       "src":""
    },
    { // TODO

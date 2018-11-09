@@ -8,7 +8,7 @@ var episodes = [
       "name":"Rorty's Mirror of Nature: Where is the Self?",
       "desc":"",
       "src":"http://cast.rocks/hosting/14881/Rorty---The-Mirror-of-Nature.mp3"
-   }
+   },
    {
       "name":"Foundations of Communism",
       "desc":"Communism has gathered an infamous history around the world during the last century, but what are its ideas truly all about? We have on Kayla, a political science major and Trotskyist from PSU who is involved in communist activism, to join us in discussing how and why Communism can be appealing. What are its central values and how do they contrast to our modern, capitalist society? This conversation is not a debate about how evidence has provided support or unsupport for implementing Communism in a given setting. Instead, this episode is a dive into the core of what makes the communist idealogy unique. Please do consider your own criticisms as well, of course.",
